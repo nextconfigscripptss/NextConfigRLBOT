@@ -1,0 +1,10 @@
+   _   _           _    ____             __ _       
+ | \ | | _____  _| |_ / ___|___  _ __  / _(_) __ _ 
+ |  \| |/ _ \ \/ / __| |   / _ \| '_ \| |_| |/ _` |
+ | |\  |  __/>  <| |_| |__| (_) | | | |  _| | (_| |
+ |_| \_|\___/_/\_\\__|\____\___/|_| |_|_| |_|\__, |
+                                             |___/  
+
+Welcome user! Thank you for purchasing our RL Bot.
+Encountering bugs, problems...? Easy, go to our discord and open a ticket.
+                                             
