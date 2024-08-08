@@ -6,6 +6,5 @@
                                              |___/  
 
 Welcome user! Thank you for purchasing our RL Bot.
-Encountering bugs, problems...? Easy, go to our discord and open a ticket.
-                                             
-DavidLezz mamas pito pito pito pitoooooo pero del grandeeeeeeee...
+Encountering bugs, problems...? Go to our discord and open a ticket.
+[NEWS] Fixed Bot Status
