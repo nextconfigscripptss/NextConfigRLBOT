@@ -1,10 +1,23 @@
-   _   _           _    ____             __ _       
- | \ | | _____  _| |_ / ___|___  _ __  / _(_) __ _ 
- |  \| |/ _ \ \/ / __| |   / _ \| '_ \| |_| |/ _` |
- | |\  |  __/>  <| |_| |__| (_) | | | |  _| | (_| |
- |_| \_|\___/_/\_\\__|\____\___/|_| |_|_| |_|\__, |
-                                             |___/  
+   _   _           _   ____        _           _   ____  
+ | \ | | _____  _| |_| __ )  ___ | |_  __   _/ | |___ \ 
+ |  \| |/ _ \ \/ / __|  _ \ / _ \| __| \ \ / / |   __) |
+ | |\  |  __/>  <| |_| |_) | (_) | |_   \ V /| |_ / __/ 
+ |_| \_|\___/_/\_\\__|____/ \___/ \__|   \_/ |_(_)_____|
 
-Welcome user! Thank you for purchasing our RL Bot.
-Encountering bugs, problems...? Go to our discord and open a ticket.
-[NEWS] Fixed Bot Status
+
+‖ Welcome user! Thank you for purchasing our program.
+‖ Encountering bugs, problems, have questions? Go to our discord and open a ticket. (https://discord.gg/y4T2rWswbq)
+
+   _   _                   
+ | \ | | _____      _____ 
+ |  \| |/ _ \ \ /\ / / __|
+ | |\  |  __/\ V  V /\__ \
+ |_| \_|\___| \_/\_/ |___/
+                           
+‖ Added Auto Recognision Control.
+‖ Implemented a new air dribbling helper.
+‖ Optimized Starting time.
+‖ Fixed bots.
+‖ Improved Kickoffs.
+‖ [Adding] Demo avoid.
+©NextBot-RL WorkShop by NextConfig
