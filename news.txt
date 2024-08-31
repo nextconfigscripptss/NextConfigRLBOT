@@ -14,7 +14,7 @@
  | |\  |  __/\ V  V /\__ \
  |_| \_|\___| \_/\_/ |___/
                            
-‖ Added Auto Recognision Control.
+‖ Auto Recognision Control.
 ‖ Removed some bots
 ‖ Removed air dribbling helper
 ‖ [x2] Optimized Starting time.
