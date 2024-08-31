@@ -15,9 +15,9 @@
  |_| \_|\___| \_/\_/ |___/
                            
 ‖ Added Auto Recognision Control.
-‖ Implemented a new air dribbling helper.
-‖ Optimized Starting time.
-‖ Fixed bots.
-‖ Improved Kickoffs.
-‖ [Adding] Demo avoid.
+‖ Removed some bots
+‖ Removede air dribbling helper
+‖ [x2] Optimized Starting time.
+‖ Added Fake Kickoffs.
+‖ Demo avoid.
 ©NextBot-RL WorkShop by NextConfig
