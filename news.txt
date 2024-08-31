@@ -16,7 +16,7 @@
                            
 ‖ Added Auto Recognision Control.
 ‖ Removed some bots
-‖ Removede air dribbling helper
+‖ Removed air dribbling helper
 ‖ [x2] Optimized Starting time.
 ‖ Added Fake Kickoffs.
 ‖ Demo avoid.
