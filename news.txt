@@ -14,10 +14,10 @@
  | |\  |  __/\ V  V /\__ \
  |_| \_|\___| \_/\_/ |___/
                            
-‖ Auto Recognision Control.
+‖ Removed Auto Recognision Control.
 ‖ Removed some bots
 ‖ Removed air dribbling helper
 ‖ [x2] Optimized Starting time.
-‖ Added Fake Kickoffs.
-‖ Demo avoid.
+‖ Added Fake Kickoffs (30% of times).
+‖ Added Demo avoid.
 ©NextBot-RL WorkShop by NextConfig
