@@ -1,9 +1,15 @@
-   _   _           _   ____        _           _   ____  
- | \ | | _____  _| |_| __ )  ___ | |_  __   _/ | |___ \ 
- |  \| |/ _ \ \/ / __|  _ \ / _ \| __| \ \ / / |   __) |
- | |\  |  __/>  <| |_| |_) | (_) | |_   \ V /| |_ / __/ 
- |_| \_|\___/_/\_\\__|____/ \___/ \__|   \_/ |_(_)_____|
-
-
+   _   _           _   ____        _           _   _____ 
+ | \ | | _____  _| |_| __ )  ___ | |_  __   _/ | |___ / 
+ |  \| |/ _ \ \/ / __|  _ \ / _ \| __| \ \ / / |   |_ \ 
+ | |\  |  __/>  <| |_| |_) | (_) | |_   \ V /| |_ ___) |
+ |_| \_|\___/_/\_\\__|____/ \___/ \__|   \_/ |_(_)____/ 
+                                                         
 ‖ Welcome user! Thank you for purchasing our program.
 ‖ Encountering bugs, problems, have questions? Go to our discord and open a ticket. (https://discord.gg/y4T2rWswbq)
+
+Latest release: NextBot v1.3
+What did get update:
+- Improved Kickoffs
+- Added Fake Kickoffs
+- Added Demo Avoid to NextRipper
+- More air dribbling to NextFucker
