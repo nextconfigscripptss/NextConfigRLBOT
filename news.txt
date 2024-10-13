@@ -18,5 +18,5 @@ What did get update:
 Meanings of configuration: (remember this all checks need to happen at same time to bot start Air Dribbling).
 Min Boost: Minimum amount of boost
 Max Ball Distance: Maximum distance bot can be from ball
-Opponent distance:Maximum distance bot can be from opponent
+Opponent distance: Minimum distance bot needs to be from opponent
 Max distance wall: Maximum distance bot can be from RIGHT wall
