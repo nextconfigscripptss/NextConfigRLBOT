@@ -1,20 +1,16 @@
- _   _           _   ____        _     ____    _ 
- | \ | | _____  _| |_| __ )  ___ | |_  |___ \  / |
- |  \| |/ _ \ \/ / __|  _ \ / _ \| __|   __) | | |
- | |\  |  __/>  <| |_| |_) | (_) | |_   / __/ _| |
- |_| \_|\___/_/\_\\__|____/ \___/ \__| |_____(_)_|
-                                                   
+   _   _           _   _           _     ____   _  _   
+ | \ | | _____  _| |_| |__   ___ | |_  |___ \ | || |  
+ |  \| |/ _ \ \/ / __| '_ \ / _ \| __|   __) || || |_ 
+ | |\  |  __/>  <| |_| |_) | (_) | |_   / __/ |__   _|
+ |_| \_|\___/_/\_\\__|_.__/ \___/ \__| |_____(_) |_|  
+                                                                                                     
 ‖ Welcome user! Thank you for purchasing NextBot.
 ‖ Encountering bugs, problems, or have questions? Join our Discord and open a ticket! (https://discord.gg/y4T2rWswbq)
 
-Latest release: NextBot v2.1
+Latest release: NextBot v2.4-Beta01
 What's new in this update:
-- Demo Defender: Bot will attempt to demo/bump if near the opponent’s net and teammate can easily score.
-- Optimizations: Enhanced performance and stability.
-- Improved NextFucker Logic: Bot no longer freezes if the opponent is demoed. Now, it continues playing as usual (Freeplay mode works, but not yet for air dribbling).
-- Config Save: Save configurations to avoid re-entering settings each time you launch NextBot.
-- Customizable Toggle Bind: You can now change the toggle bind, even assigning it to a controller button.
-- Kickoff Enhancements: Better kickoff logic for faster starts and better 50/50.
+I'm so bored, i'll update this tomorrow, ty guys for understeanding... ;)
+Please note Air Dribble Checks configuration won't make any changes at this moment.
 
 
 Configuration Guide:
