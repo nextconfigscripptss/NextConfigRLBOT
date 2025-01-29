@@ -1,4 +1,10 @@
 {
+    "epic": {
     "gnames_offset": 36882136,
     "gobjects_offset": 36882208
-}
+    },
+    "steam": {
+    "gnames_offset": 37387352,
+    "gobjects_offset": 37387424
+    }
+} 
